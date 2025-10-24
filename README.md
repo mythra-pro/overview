@@ -1,6 +1,6 @@
 # Mythra — NFT Ticketing & Community-Powered Crowdfunding on Solana
 
-## 💫 What is Mythra?
+## 💫 Why Mythra?
 
 Mythra is a Web3 platform built on Solana that redefines event creation and funding. We combine secure, anti-fraud NFT ticketing with transparent, DAO-governed crowdfunding.
 
@@ -8,31 +8,45 @@ By leveraging on-chain escrow and signature-based check-in, Mythra empowers orga
 
 Create events, fund dreams, and attend with confidence — all in one ecosystem.
 
----
+# The Problem Mythra Solves
 
-## 🧩 The Problem Mythra Solves
+The existing ecosystem for events and crowdfunding suffers from structural flaws that inhibit innovation and compromise user trust:
 
-The traditional event and crowdfunding space is plagued with inefficiencies and a critical lack of trust:
+## Core Problems
 
-- ❌ **High Upfront Costs:** Significant capital is required upfront, blocking smaller or new event creators.
-- ❌ **Slow & Opaque Payments:** Organizers face delayed payouts and unclear financial flows from third-party platforms.
-- ❌ **Ticket Fraud:** Static QR codes are easily duplicated, causing losses for organizers and fans.
-- ❌ **Scam & Rug-pull Risk:** Fake organizers abuse crowdfunding and pre-sales, leading to lost funds and broken trust.
+### ❌ Prohibitive Upfront Costs
+Event creators—particularly new or smaller organizers—face substantial capital requirements for venue deposits, marketing, and logistics. This **high barrier to entry** prevents numerous viable events from materializing.
 
-## ✅ Mythra as the Solution
+### ❌ Delayed & Opaque Payouts
+Conventional platforms introduce intermediary processes that result in **slow, delayed, and unclear payment flows** to organizers. This lack of financial transparency and speed creates cash flow constraints and operational instability.
 
-Mythra tackles these core issues with a smart, transparent, and community-powered stack:
+### ❌ Easy QR Code Fraud
+The industry's dependence on **static, easily duplicated QR code tickets** enables bad actors to commit ticket fraud, causing financial losses for both event organizers and legitimate attendees.
 
-- ✅ **DAO-Governed Crowdfunding:** Funds are held in escrow and released only after community milestone approval.
-- ✅ **Instant Smart Contract Payouts:** Ticket sales go directly to organizers; no manual delays.
-- ✅ **Fully On-Chain & Transparent:** All sales, check-ins, and fund flows are publicly auditable.
-- ✅ **NFT Ticketing:** Unique, non-duplicatable NFT tickets (1/1) minted on Solana.
-- ✅ **Signature Check-in:** Prevents fraud by requiring a live wallet signature for entry.
-- ✅ **Civic Auth Verification:** KYC for organizers enhances trust and reduces scam risk.
-
-This creates a secure and seamless experience for organizers and a trustworthy, engaging platform for attendees and backers.
+### ❌ Fake Event Scams
+Current crowdfunding and pre-sale models lack robust organizer verification, exposing users to significant **"rug-pull" and scam risks** from fraudulent event creators, thereby undermining community trust.
 
 ---
+
+# Mythra as the Solution
+
+Mythra introduces a blockchain-native, trust-minimized, and financially streamlined stack to fundamentally reconstruct the event and crowdfunding landscape:
+
+## Core Solutions
+
+### ✅ Smart Contract-Based Crowdfunding
+Funds are secured in **decentralized escrow** managed by a DAO. Capital release to organizers occurs only upon community-approved achievement of predefined milestones, ensuring accountability and backer security.
+
+### ✅ Instant & Automated Payouts
+Ticket sales execute via smart contracts that enable **immediate, automated payouts** directly to the organizer's wallet. This eliminates payment delays, removes opaque third-party processing, and provides instant capital access.
+
+### ✅ Dynamic NFT Tickets
+Mythra employs **unique, non-duplicatable NFT tickets (1/1)** minted on Solana. These dynamic digital assets prevent fraud and duplication, with check-in requiring a **live wallet signature** for authenticated entry verification.
+
+### ✅ Decentralized Escrow & On-Chain Reputation
+The integration of escrow with **fully on-chain transparency** for all transactions—sales, check-ins, and fund flows—establishes a publicly auditable reputation system for organizers. By incorporating **KYC via Civic Auth**, Mythra substantially mitigates scam risk and cultivates a trustworthy community environment.
+
+This comprehensive approach empowers organizers with financial efficiency while providing attendees a secure, transparent, and engaging platform experience.
 
 ## 🔗 Use Cases
 
@@ -75,7 +89,7 @@ Mythra replaces opaque, centralized systems with a transparent, on-chain mechani
 ## 🎥 Video Demo & Deck
 
 - **Video Demo:** *[Link to be added after MVP development]*
-- **Pitch Deck:** 
+- **Deck:** *https://drive.google.com/file/d/1hzOJwpq3PWJXbH4Uiu7hr12yDUBICwCW/view?usp=sharing*
 
 ---
 
