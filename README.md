@@ -88,6 +88,7 @@ Mythra replaces opaque, centralized systems with a transparent, on-chain mechani
 
 ## 🎥 Video Demo & Deck
 
+- **Tech Demo:** *https://youtu.be/PPjcp7ZIq-A*
 - **Pitch Demo:** *https://youtu.be/G--nc8ZKx9k*
 - **Deck:** *https://drive.google.com/file/d/1hzOJwpq3PWJXbH4Uiu7hr12yDUBICwCW/view?usp=sharing*
 
